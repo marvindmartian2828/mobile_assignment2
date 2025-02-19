@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="canmore_view">Canmore</string>
+    <string name="canmore_bridge">Canmore Engine Bridge</string>
+    <string name="calgary_downtown">Downtown Calgary</string>
+    <string name="alberta">Alberta</string>
+</resources>
